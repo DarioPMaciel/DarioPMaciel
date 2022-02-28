@@ -1,7 +1,7 @@
 ### Olá eu sou Dario Maciel 👋
 
 - 🔭 At the moment I am working at Tanca Informtica - Manufacture Quality
-- 🌱 I’m currently learning Typescript and Flutter
+- 🌱 I’m currently learning Typescript and Dart
 
 <div align="center">
   <a href="https://github.com/DarioPMaciel">
@@ -9,9 +9,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioPMaciel&layout=compact&langs_count=7&theme=blue"/>
 </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Dario-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
-    <img align="center" alt="Dario-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
-    <img align="center" alt="Dario-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Dario-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
+    <img align="center" alt="Dario-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
+    <img align="center" alt="Dario-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
 ##
