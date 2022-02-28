@@ -1,6 +1,6 @@
 ### Olá eu sou Dario Maciel 👋
 
-- 🔭 At the moment I am working at Tanca Informtica - Manufacture Quality
+- 🔭 At the moment I am working at Tanca Informática - Manufacture Quality
 - 🌱 I’m currently learning Typescript and Dart
 
 <div align="center">
