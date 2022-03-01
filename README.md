@@ -8,12 +8,14 @@
 
 <div align="center">
   <a href="https://github.com/DarioPMaciel">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DarioPMaciel&show_icons=false&theme=blue&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=DarioPMaciel&show_icons=true&theme=blue&include_all_commits=true            &count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioPMaciel&layout=compact&langs_count=7&theme=blue"/>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="Dario-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">  
+    -
     <img align="center" alt="Dario-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
+    -
     <img align="center" alt="Dario-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
