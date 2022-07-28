@@ -1,10 +1,10 @@
 ### Olá eu sou Dario Maciel 👋
 
-- 🔭 Currently I work at Tanca Informática - Manufacturing Quality
-- 🧠 Graduated in Computer Science - FEMA, Assis-SP
-- 🧠 MBA Quality Management - UNOPAR, Presidente Prudente-SP
-- 🌱 I’m currently graduating BlackBelt 6-Sigma and Lean
-- 🌱 I’m currently learning Typescript and Dart
+- 🧠 Graduado em Ciências da Computação - FEMA, Assis-SP
+- 🧠 MBA Gestão da Qualidade - UNOPAR, Presidente Prudente-SP
+- 🌱 Me graduando em BlackBelt 6-Sigma and Lean
+- 🌱 Estudando Typescript 
+- 🌱 Estudando Flutter e Dart
 
 <div align="center">
   <a href="https://github.com/DarioPMaciel">
